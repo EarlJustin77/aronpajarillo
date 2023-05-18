@@ -1,0 +1,48 @@
+.bordered {
+    border: 8px solid #42719b;
+    padding: 10px;
+    margin: 20px;
+  }
+.headings {
+    text-align: center;
+    white-space: pre-line;
+}
+.left-align {
+    float: left;
+    width: 100px;
+    height: auto;
+  }
+.right-align {
+    float: right;
+    width: 100px;
+      height: auto;
+  }
+.color{
+  color: white;
+  background-color: black;
+  display: inline;
+  padding: 2px;
+}
+.border {
+  border: 5px solid black;
+  padding: 10px;
+  margin: 20px;
+}
+.fix{
+  white-space: pre-line;
+}
+.rounded{
+  border: 3px solid black;
+  padding: 10px;
+  margin: 20px;
+  border-radius: 15px;
+  white-space: pre-line;
+}
+.two{
+  text-align: center;
+}
+.trip{
+  width: 500px;
+  height: auto;
+
+}
